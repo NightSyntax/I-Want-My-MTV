@@ -74,5 +74,5 @@ Want to change the look of the on-screen graphics? You don't need to touch the c
 * **Custom Colors:** Open `colors.txt` in your favorite text editor.
 * **How it works:** Simply declare your preferred RGB codes there.
 * **Variety:** The engine will use these values to generate the colored bars for song titles and upcoming video announcements, keeping the broadcast fresh and colorful—just like the original MTV.
-* 
+
 ---
