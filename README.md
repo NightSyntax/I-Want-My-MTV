@@ -18,7 +18,7 @@ Why?
 
 Because modern streaming is too organized. I wanted the chaos of 90s television—where you didn't know what video was coming next, and the graphics were just as cool as the music.
 
-## s📡 Setup Guide
+## 📡 Setup Guide
 Follow these steps to get your 90s MTV broadcast up and running:
 
 1. **Download the Project**
@@ -74,5 +74,3 @@ Want to change the look of the on-screen graphics? You don't need to touch the c
 * **Custom Colors:** Open `colors.txt` in your favorite text editor.
 * **How it works:** Simply declare your preferred RGB codes there.
 * **Variety:** The engine will use these values to generate the colored bars for song titles and upcoming video announcements, keeping the broadcast fresh and colorful—just like the original MTV.
-
----
