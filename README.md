@@ -77,4 +77,14 @@ Want to change the look of the on-screen graphics? You don't need to touch the c
 
 ## 📸 Preview
 <img width="1916" height="1438" alt="mtv" src="https://github.com/user-attachments/assets/fbb12f1f-643d-4737-8064-b2e63b8d1bed" />
+---
 
+## ⚠️ Legal Disclaimer & Copyright
+
+This project is a non-profit, fan-made tribute to MTV and is intended for educational and nostalgic purposes only. 
+
+* **Music & Media Content:** The included video by **Depeche Mode** is for demonstration purposes only. All rights to the music, video, and branding belong to the respective artists and their record labels. 
+* **MTV Branding:** All MTV logos, idents, and trademarks are the property of **Paramount Global** (formerly ViacomCBS).
+* **Usage:** I do not claim ownership of any copyrighted material included in the `/mv` or `/idents` folders. If you are the copyright holder and wish for this content to be removed, please contact me.
+
+Please support the artists by purchasing their music and streaming their official content.
