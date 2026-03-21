@@ -77,7 +77,6 @@ Want to change the look of the on-screen graphics? You don't need to touch the c
 
 ## 📸 Preview
 <img width="1916" height="1438" alt="mtv" src="https://github.com/user-attachments/assets/fbb12f1f-643d-4737-8064-b2e63b8d1bed" />
----
 
 ## ⚠️ Legal Disclaimer & Copyright
 
