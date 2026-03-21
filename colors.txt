@@ -1,0 +1,71 @@
+# SET1 {
+M:#5f5b5a
+TV:#a24e50
+SIDES:#E5F9B0
+}
+
+# SET2 {
+M:#aa4625
+TV:#71bc4e
+SIDES:#E5F9B0
+}
+
+# SET3 {
+M:#55559a
+TV:#6cc271
+SIDES:#E5F9B0
+}
+
+# SET4 {
+M:#ef9944
+TV:#a6f9c6
+SIDES:#E5F9B0
+}
+
+# SET5 {
+M:#6b94c7
+TV:#7cecec
+SIDES:#E5F9B0
+}
+
+# SET6 {
+M:#b1522d
+TV:#5b9934
+SIDES:#E5F9B0
+}
+
+# SET7 {
+M:#ef8c34
+TV:#6cc6bf
+SIDES:#E5F9B0
+}
+
+# SET8 {
+M:#f2a478
+TV:#62608c
+SIDES:#E5F9B0
+}
+
+# SET9 {
+M:#eb4563
+TV:#6cc6bf
+SIDES:#E5F9B0
+}
+
+# SET10 {
+M:#e5b4e3
+TV:#aecc64
+SIDES:#E5F9B0
+}
+
+# SET11 {
+M:#42918c
+TV:#942a15
+SIDES:#E5F9B0
+}
+
+# SET12 {
+M:#3134f5
+TV:#5799f7
+SIDES:#E5F9B0
+}
