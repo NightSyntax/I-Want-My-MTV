@@ -1,7 +1,7 @@
 # I-Want-My-MTV 📺
 Remember when MTV actually played music? This project is a tribute to the golden era of cable TV. It’s a PHP-based engine designed to recreate the full 90s broadcast experience right in your browser.
 
-This isn't just a video player—it’s a time machine. I built this to bring back that specific, gritty, analog "feeling" of channel surfing in 1995.
+This isn't just a video player - it’s a time machine. I built this to bring back that specific, gritty, analog "feeling" of channel surfing in 1995.
 
 <b>What it does</b>
 * The engine recreates the iconic MTV on-air look from the 90s. You provide the media, and the app handles the rest:
@@ -16,7 +16,7 @@ This isn't just a video player—it’s a time machine. I built this to bring ba
 
 Why?
 
-Because modern streaming is too organized. I wanted the chaos of 90s television—where you didn't know what video was coming next, and the graphics were just as cool as the music.
+Because modern streaming is too organized. I wanted the chaos of 90s television - where you didn't know what video was coming next, and the graphics were just as cool as the music.
 
 ## 📡 Setup Guide
 Follow these steps to get your 90s MTV broadcast up and running:
@@ -73,7 +73,7 @@ Want to change the look of the on-screen graphics? You don't need to touch the c
 
 * **Custom Colors:** Open `colors.txt` in your favorite text editor.
 * **How it works:** Simply declare your preferred RGB codes there.
-* **Variety:** The engine will use these values to generate the colored bars for song titles and upcoming video announcements, keeping the broadcast fresh and colorful—just like the original MTV.
+* **Variety:** The engine will use these values to generate the colored bars for song titles and upcoming video announcements, keeping the broadcast fresh and colorful - just like the original MTV.
 
 ## 📸 Preview
 <img width="1916" height="1438" alt="mtv" src="https://github.com/user-attachments/assets/fbb12f1f-643d-4737-8064-b2e63b8d1bed" />
